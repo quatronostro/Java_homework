@@ -9,9 +9,9 @@ You can find codes under the "src" file. I created basic calculator in Java. In 
 </br>
 
 ### <a href= "https://github.com/quatronostro/Java_homework/blob/main/myHomepractise/src/H01_home_practise/nested_ifElse.java"> nested_ifElse_Java </a>
-
 It is nested if else work in Java with retirement example question. Program is going to inform user if he/she will be retire or not.
 </br>
 
 ### <a href= "https://github.com/quatronostro/Java_homework/blob/main/myHomepractise/src/H01_home_practise/Calculator_withSwitchcase.java"> Calculator_withSwitchcase </a>
+Same calculator with using Switch Case method
 </br>
