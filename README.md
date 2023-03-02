@@ -16,6 +16,6 @@ It is nested if else work in Java with retirement example question. Program is g
 Same calculator with using Switch Case method
 </br>
 
-### <a href= "https://github.com/quatronostro/Java_homework/blob/main/myHomepractise/src/H01_home_practise/creatingAndChangingList.java"> 3) Calculator_withSwitchcase </a>
+### <a href= "https://github.com/quatronostro/Java_homework/blob/main/myHomepractise/src/H01_home_practise/creatingAndChangingList.java"> 4) Create_and_Change_List </a>
 With this program, user can creates own list and can see in the console. After that, if user want to change the list can give index number makes the change, if dont want to change program shows last version of list and stops. 
 </br>
