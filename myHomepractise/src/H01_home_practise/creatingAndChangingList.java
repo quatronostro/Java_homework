@@ -26,10 +26,10 @@ public class odev01 {
             getIndex = scan.nextInt();
             System.out.println("Please enter your new element you want to enter : ");
             setIndex = scan.nextInt();
-            System.out.println(changeListElement(lastVersion, getIndex, setIndex));
+            System.out.print("This is the last version of your list : " + changeListElement(lastVersion, getIndex, setIndex));
 
         } else if (Pattern.matches("[nN]", yesOrNo)) {
-            System.out.println(lastVersion);
+            System.out.print("This is the last version of your list : " + lastVersion);
         }
 
 
