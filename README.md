@@ -21,6 +21,6 @@ With this program, user can creates own list and can see in the console. After t
 </br>
 
 
-### <a href= "https://github.com/quatronostro/Java_homework/tree/main/myHomepractise/src/miniGrocery"> 4) miniGrocery Project </a>
+### <a href= "https://github.com/quatronostro/Java_homework/tree/main/myHomepractise/src/miniGrocery"> 5) miniGrocery Project </a>
 I created a mini grocery, like there is 5 items in this grocery. You can see the list of items and choose which one you want to buy. Than you have to enter how many kilos you want to buy. After that program shows you, your basket and total price what you have to pay
 </br>
