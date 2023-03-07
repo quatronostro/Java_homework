@@ -19,3 +19,8 @@ Same calculator with using Switch Case method
 ### <a href= "https://github.com/quatronostro/Java_homework/blob/main/myHomepractise/src/H01_home_practise/creatingAndChangingList.java"> 4) Create_and_Change_List </a>
 With this program, user can creates own list and can see in the console. After that, if user want to change the list can give index number makes the change, if dont want to change program shows last version of list and stops. 
 </br>
+
+
+### <a href= "https://github.com/quatronostro/Java_homework/blob/main/myHomepractise/src/H01_home_practise/creatingAndChangingList.java"> 4) miniGrocery Project </a>
+I created a mini grocery, like there is 5 items in this grocery. You can see the list of items and choose which one you want to buy. Than you have to enter how many kilos you want to buy. After that program shows you, your basket and total price what you have to pay
+</br>
