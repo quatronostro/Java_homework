@@ -24,3 +24,7 @@ With this program, user can creates own list and can see in the console. After t
 ### <a href= "https://github.com/quatronostro/Java_homework/tree/main/myHomepractise/src/miniGrocery"> 5) miniGrocery Project </a>
 I created a mini grocery, like there is 5 items in this grocery. You can see the list of items and choose which one you want to buy. Than you have to enter how many kilos you want to buy. After that program shows you, your basket and total price what you have to pay
 </br>
+
+### <a href= "https://github.com/quatronostro/Java_homework/tree/main/myHomepractise/src/numberGuessingGame"> 6) numberGuessinGame </a>
+You have 5 guesses for to find correct number and it must be between 0 and 100, so lets try.
+</br>
