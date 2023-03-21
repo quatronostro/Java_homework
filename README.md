@@ -30,5 +30,5 @@ You have 5 guesses for to find correct number and it must be between 0 and 100, 
 </br>
 
 ### <a href= "https://github.com/quatronostro/Java_homework/tree/main/myHomepractise/src/BasicAtm"> 7) basic_ATM_Machine </a>
-This is just an ATM machine, you can show your account info, send or withdraw money, or you can change your password. I don't know now working with data base, so card number, password and current balance predetermined. 
+This is just an ATM machine, you can see your account info, send or withdraw money, or you can change your password. I don't know now working with data base, so card number, password and current balance predetermined. 
 </br>
