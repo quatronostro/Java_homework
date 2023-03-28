@@ -32,3 +32,7 @@ You have 5 guesses for to find correct number and it must be between 0 and 100, 
 ### <a href= "https://github.com/quatronostro/Java_homework/tree/main/myHomepractise/src/BasicAtm"> 7) basic_ATM_Machine </a>
 This is just an ATM machine, you can see your account info, send or withdraw money, or you can change your password. I don't know now working with data base, so card number, password and current balance predetermined. 
 </br>
+
+### <a href= "https://github.com/quatronostro/Java_homework/tree/main/myHomepractise/src/StudentManagementPlatform"> 8) Student_Management_Program </a>
+With this program you can add new student, show list of all students, search students and delete students if you want to. You must careful when you entering new student, you have to enter real TC NO. Because there is some part of code about controlling that number you are giving is right or not.
+</br>
