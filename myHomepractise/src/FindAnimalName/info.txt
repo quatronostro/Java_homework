@@ -1,0 +1,48 @@
+StringBuilder
+metinlerimizi store etmemiz için kullanabileceğimiz bir yapı
+belirli bir kapasitesi stringden farklı olarak
+
+access modifier
+public
+protected
+default
+private
+
+inheritance
+parent child ilişkisi
+extends
+
+abstact class
+
+polymorphism
+overloading
+    aynı class
+    aynı method ismi
+    farklı signature
+
+overriding
+    farklı class(parent child)
+    aynı method ismi
+    aynı signature
+
+/*
+
+Bir hayvan ismi tahmin oyunu yaratalım. Bu oyunda yazacağımız program random class'ından yardım alarak
+kullanıcının görmediği bir hayvan seçsin. Bu hayvanın özellikleri kullanıcıya verilerek tahmin yürütülmesi istensin.
+
+Class ilişkisi :
+Parent olan abstract bir Hayvan class'ı ve abstract özellikleri olsun.
+    -isim
+    -hareket özelliği
+    -bu hayvan yenebiliyor mu
+    -bu hayvanın sesi
+
+Bu class'a bağlı kedi, köpek, inek ve kuzu child class'ları olsun.
+
+Main class içinde bu chlid class'ları bir array içinde muhafaza edelim.
+Sonra program random class yardımı ile bir hayvan seçsin ve bu seçtiği
+hayvanı user tahmin edip bulmaya çalışsın.
+
+ */
+
+
