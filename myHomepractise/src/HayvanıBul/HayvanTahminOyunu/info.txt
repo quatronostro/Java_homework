@@ -1,0 +1,92 @@
+StringBuilder
+    Java'da metin datası tutabileceğimiz bir yapı
+    -mutable
+    -daha hızlı
+    -capacity özelliği var
+    -multi thread desteklemez
+
+    StringBuilder sb = new StringBuilder();
+    StringBuilder sb = new StringBuilder("Java candır");
+    StringBuilder sb = new StringBuilder(11);
+
+    sb.append(); -> add gibi bir işlevi var, ekleme yapar
+    sb.reverse(); -> tersten yazdırmayı sağlar
+    sb.capacity(); -> capacity'imizi belirler
+    sb.trim(); -> kırpma yapar
+    sb.length(); -> uzunluğu
+    sb.delete(); -> istenilen indexi siler
+    sb.compareTo(); -> iki sb karşılaştırması için
+    sb.replace(); -> yer değiştirme
+
+
+Access Modifier
+    Bir class üyesinin scope'unu belirler
+
+    -private -> sadece bulunduğu class'ı kapsar
+    -default -> bulunduğu class + package
+    -protected -> bulunduğu class + package + başka package'lardaki child class'lar
+    -public -> global
+
+    class, method ve variable'ın başına yazılan keyword
+
+    okuma yazma(Erişim Yetkisi) yetkisi = Encapsulation
+    Getter/Setter
+
+
+Inheritance
+    Katılım/Miras
+    (OOP Conceptin en önemli konularından biri)
+    Child - Parent ilişkisi
+
+    child class'a extend keyword'ü ile Parent'ını seçmiş oluruz
+
+    1 Parent class'ın 1 den fazla child'ı olabilir
+    1 Child class'ın 1 den fazla parent'ı olamaz
+
+    child-parent-grand parent ilişkisi ile MultiLevel Inheritance yapabiliriz
+
+    private ve/veya static class üyeleri inherit edilemez
+
+    this() - o class'daki parametresiz cons. call
+    super() - parent class'daki parametresiz cons. call
+
+    Eğer class level variable ile methoddaki variable ismi aynı ise karışmaması için
+    this. - o class'daki
+    super. - parent class'daki
+
+Polymorphism
+
+Objelerin çok biçimliliği
+
+    OVERRIDE
+        -Farklı class
+        -Aynı method ismi
+        -Aynı signature
+
+        -dinamik bir yapı
+        -parent'daki method override edilen
+        -child'daki method override eden
+
+        *Child parent'ı access modifier olarak kısıtlayamaz
+        *Return type primitive veya void ise iki methodun return type'ı aynı olmalıdır
+
+        *non primitive return type ise parent return type parent olmalı
+
+    OVERLOADING
+        -Aynı class
+        -Aynı method ismi
+        -Farklı signature
+
+
+Abstract Classes
+    (Soyut)
+    Kullanılması zorunlı methodları belirliyor
+
+    Abstract class'lar nasıl olması gerektiğine değil, ne olması gerektiği konusunda
+    standart belirlemek içindir.
+
+    Abstract bir class'ı parent edinen Concreate class'lar,
+    abstract class'da abstract olarak tanımlanmış tüm
+    methodları override etmek zorundadır.
+
+    final ve private method'lar override edilemez
